@@ -8,6 +8,14 @@
 
 Estoy participando en el reto #ProgramaEnPantuflas.
 
-Aquí tu primer apunte
+Fecha: 02/01/2021
 
-¡Disfruta del reto!
+Humor: 😀
+
+Hitos conseguidos:
+
+
+Próximos hitos
+
+
+
