@@ -3,19 +3,23 @@
 
 
 
-
 ## **Tu diario empieza aquí**
 
-Estoy participando en el reto #ProgramaEnPantuflas.
+Deja esta línea para no perder la referencia:
 
-Fecha: 02/01/2021
+Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas).
+---
 
-Humor: 😀
+**Fecha**: 05/01/2021
 
-Hitos conseguidos:
+**Humor**: 
 
+**Hitos conseguidos**:
 
-Próximos hitos
+*   
 
+**Próximos hitos**
+
+*   
 
 
