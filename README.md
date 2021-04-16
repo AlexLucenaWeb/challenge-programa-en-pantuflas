@@ -16,14 +16,18 @@ Deja esta línea para no perder la referencia:
 
 **Fecha**: 05/01/2021
 
-**Humor**: 
+**Humor**: 😀
 
 **Hitos conseguidos**:
 
-*   
+*   Empezar el reto programando en pantuflas.
+*   Tener mi pizarrada blanca bien organizada.
+*   Avanzar en el curso Vue.
 
 **Próximos hitos**
 
-*   
+*   Mantener "My Story Teller" con express?
+*   Empezar proyecto del curso de Vue.
+*   Curriculuuuuuuuummmmmsssss
 
 
