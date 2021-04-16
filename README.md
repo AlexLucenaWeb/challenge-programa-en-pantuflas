@@ -13,7 +13,6 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 Deja esta línea para no perder la referencia:
 
----
 
 **Fecha**: 05/01/2021
 
